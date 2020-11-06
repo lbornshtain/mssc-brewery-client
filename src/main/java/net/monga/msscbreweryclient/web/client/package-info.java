@@ -1,0 +1,1 @@
+package net.monga.msscbreweryclient.web.client;
